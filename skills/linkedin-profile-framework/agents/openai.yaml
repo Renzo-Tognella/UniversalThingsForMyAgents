@@ -1,0 +1,8 @@
+interface:
+  display_name: "LinkedIn Profile Framework"
+  short_description: "Personalized LinkedIn improvement framework"
+  default_prompt: "Use $linkedin-profile-framework to analyze my CV/profile, build the domain intelligence map, and produce GUIA_FINAL_MELHORIA_LINKEDIN.md."
+
+policy:
+  allow_implicit_invocation: true
+

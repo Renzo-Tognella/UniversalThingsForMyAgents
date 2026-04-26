@@ -1,0 +1,7 @@
+interface:
+  display_name: "Resume Domain Intelligence"
+  short_description: "Domain-aware resume intelligence for software engineers"
+  default_prompt: "Use $resume-domain-intelligence to build a domain intelligence map from my background, research my market, and rewrite my resume with both technical and HR depth."
+
+policy:
+  allow_implicit_invocation: true
