@@ -22,6 +22,7 @@ Base de conhecimento com **1.000+ links** organizados em 10 categorias para pesq
 | 10 | [TheSearch Related](10_thesearch_related.md) | Neo4j, Qdrant, MCP, FastMCP, RRF, embeddings, Pydantic, design patterns | 116+ |
 | 11 | [Analysis & Improvements](11_ANALYSIS_AND_IMPROVEMENTS.md) | Analise completa do TheSearch com 42 melhorias priorizadas | 42+ |
 | 12 | [Agentic AI Frontier 2026](12_agentic_ai_frontier_2026.md) | Estado da arte em Engenharia de IA e Sistemas Agenticos | 100+ |
+| 13 | [LLM Safety Defenses](13_llm_safety_defenses.md) | Mecanismos de defesa contra jailbreaks e conteudo perigoso | 50+ |
 
 ## Temas Cobertos
 
