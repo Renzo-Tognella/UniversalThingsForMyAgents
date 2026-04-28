@@ -9,7 +9,7 @@ Base de conhecimento com **1.000+ links** organizados em 10 categorias para pesq
 ## Arquivos
 
 | # | Arquivo | Tema | Links |
-|---|---------|------|-------|
+|---|---|---------|------|-------|
 | 01 | [Graphs & LLM Memory](01_graphs_llm_memory.md) | Grafos aplicados a memoria de LLM, GraphRAG, Knowledge Graphs, GraphLearning | 120+ |
 | 02 | [Temporal Memory & Trees](02_temporal_memory_trees.md) | Memoria temporal, arvores de memoria, memoria episdodica, decay, Ebbinghaus | 99+ |
 | 03 | [Multi-Agent Systems](03_multi_agent_systems.md) | Sistemas multi-agente, AutoGen, CrewAI, LangGraph, complex systems | 95+ |
@@ -20,6 +20,8 @@ Base de conhecimento com **1.000+ links** organizados em 10 categorias para pesq
 | 08 | [GitHub Repositories](08_repositories.md) | 140+ repos categorizados - frameworks, tools, vector DBs, MCP | 140+ |
 | 09 | [YouTube Videos](09_videos.md) | 130+ videos - tutoriais, talks, cursos, canais especializados | 130+ |
 | 10 | [TheSearch Related](10_thesearch_related.md) | Neo4j, Qdrant, MCP, FastMCP, RRF, embeddings, Pydantic, design patterns | 116+ |
+| 11 | [Analysis & Improvements](11_ANALYSIS_AND_IMPROVEMENTS.md) | Analise completa do TheSearch com 42 melhorias priorizadas | 42+ |
+| 12 | [Agentic AI Frontier 2026](12_agentic_ai_frontier_2026.md) | Estado da arte em Engenharia de IA e Sistemas Agenticos | 100+ |
 
 ## Temas Cobertos
 
